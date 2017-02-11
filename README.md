@@ -1,6 +1,19 @@
 # Simple-2-Layer-Neural-Network
 
-There are certain better introduction to a perceptron and Neural Networks in general and I stick here largely to my own wording and reflection for the purpose of understanding. A pretty example of how a perceptron works is avaialble here: http://maerch.github.io/static/vpercp/
+There are certain better introduction to a perceptron and Neural Networks in general and I stick here largely to my own wording for the purpose of understanding. 
+
+Really good instructions are a lot out there. I like in particular this one:
+
+http://stevenmiller888.github.io/mind-how-to-build-a-neural-network/
+
+Good resources to get started with Deep Learning and Neural Network are:
+
+Glossary of terms: https://docs.google.com/document/d/1Vy6IN-LuttLtA7Wzb2WduL8jcU1AuF3-Oygu8prp2m4/edit?usp=sharing
+
+Currated list or resources: https://docs.google.com/spreadsheets/d/1NZtIxDWiJ_B0UKhIDUk-wTZAT3Fxfh-fGwcQKXg1bQU/edit?usp=sharing
+
+
+A pretty example of how a perceptron works is available here: http://maerch.github.io/static/vpercp/
 It gives a clear overview how it makes a "line of best fit" that makes the prediction. Ultimately, a perceptron is a statistical model that once trained can be sampled to retrieve predictions.
 
 
